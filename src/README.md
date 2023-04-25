@@ -1,6 +1,6 @@
 # Getting started
 
-The Royal  Bank-of-flatiron
+The Royal Bank-of-flatiron
 
 # Cloning the Application
 
