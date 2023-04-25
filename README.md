@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Clone the repository by using the following command:
 
-git clone git@github.com:
+# git clone git@github.com:
 
 https://github.com/Nimoismail/Bank-of-Flatiron
 
