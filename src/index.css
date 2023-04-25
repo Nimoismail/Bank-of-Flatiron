@@ -5,7 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(190, 36, 121);
+  background-image: url("https://media.istockphoto.com/id/92803896/photo/flatiron-building.jpg?s=612x612&w=is&k=20&c=hIcOcdLbPaxRn92bkRlkrX5pnppGweOrQHwnSwoLlFE=");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 code {
