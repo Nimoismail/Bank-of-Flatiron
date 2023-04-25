@@ -4,8 +4,6 @@ The Royal Bank-of-flatiron
 
 # Cloning the Application
 
-# Getting Started with Create React App
-
 To clone the application, follow these steps:
 
 Open your terminal and navigate to the directory where you want to download the project.
