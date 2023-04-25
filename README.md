@@ -3,9 +3,6 @@
 The Royal Bank of Flatiron
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-To clone the application, follow these steps:
-
-Open your terminal and navigate to the directory where you want to download the project.
 
 # Clone the repository by using the following command:
 
@@ -13,12 +10,14 @@ git clone git@github.com:
 
 https://github.com/Nimoismail/Bank-of-Flatiron
 
-Change the directory into the project folder by running the command:
+# Change the directory into the project folder by running the command:
 
-cd  The Royal Bank-of-flatiron
-Open the project in your preferred code editor using the command:
+cd Bank-of-flatiron
+
+# Open the project in your preferred code editor using the command:
 
 code .
+
 Congratulations, you have successfully cloned the application!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
